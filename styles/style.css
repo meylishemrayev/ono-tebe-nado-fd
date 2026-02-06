@@ -8,6 +8,8 @@ body {
   background-color: #fff;
 }
 
+/* HEADER */
+
 .header {
   display: grid;
   align-items: center;
@@ -71,6 +73,8 @@ body {
   grid-column: 3;
   justify-self: end;
 }
+
+/* COVER */
 
 .cover {
   position: relative;
@@ -152,6 +156,8 @@ body {
   border: 1px solid #fff;
   margin-left: 0;
 }
+
+/* LOTS */
 
 .lots {
   max-width: 1052px;
@@ -241,6 +247,8 @@ body {
   border-bottom: 1px solid #000;
 }
 
+/* ABOUT */
+
 .about {
   max-width: 1052px;
   margin: 0 auto;
@@ -292,6 +300,8 @@ body {
   font-weight: 400;
   margin-top: -17px;
 }
+
+/* FOOTER */
 
 .footer {
   display: grid;
